@@ -12,3 +12,4 @@ def clean_data(df):
         col("amount") * 1.20
     )
     return cleaned_df
+# trigger CI
